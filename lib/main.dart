@@ -33,9 +33,9 @@ class HomePage extends StatelessWidget {
         title: const Text(
           'I\'M RICH',
           style: TextStyle(
+            color: Color.fromARGB(255, 0, 0, 0),
             fontSize: 48,
             fontWeight: FontWeight.bold,
-            color: Color.fromARGB(255, 0, 0, 0),
           ),
         ),
         centerTitle: true,
